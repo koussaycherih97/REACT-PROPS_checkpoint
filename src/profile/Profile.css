@@ -1,0 +1,22 @@
+.profil{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    background-color:beige;
+   
+    
+}
+
+.child1{
+    margin-left:  10px; 
+    text-align:center;
+    
+}
+
+.child2{
+    text-align: start;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:tomato;
+}
+.child2 h3 {
+    color: brown;
+}
